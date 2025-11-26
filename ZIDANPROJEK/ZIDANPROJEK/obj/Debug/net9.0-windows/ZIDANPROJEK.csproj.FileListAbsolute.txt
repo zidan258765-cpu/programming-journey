@@ -1,0 +1,17 @@
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\bin\Debug\net9.0-windows\ZIDANPROJEK.exe
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\bin\Debug\net9.0-windows\ZIDANPROJEK.deps.json
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\bin\Debug\net9.0-windows\ZIDANPROJEK.runtimeconfig.json
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\bin\Debug\net9.0-windows\ZIDANPROJEK.dll
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\bin\Debug\net9.0-windows\ZIDANPROJEK.pdb
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ZIDANPROJEK.Form1.resources
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ZIDANPROJEK.csproj.GenerateResource.cache
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ZIDANPROJEK.GeneratedMSBuildEditorConfig.editorconfig
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ZIDANPROJEK.AssemblyInfoInputs.cache
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ZIDANPROJEK.AssemblyInfo.cs
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ZIDANPROJEK.csproj.CoreCompileInputs.cache
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ZIDANPROJEK.dll
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\refint\ZIDANPROJEK.dll
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ZIDANPROJEK.pdb
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ZIDANPROJEK.genruntimeconfig.cache
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ref\ZIDANPROJEK.dll
+C:\projek zidan akhir\ZIDANPROJEK\ZIDANPROJEK\obj\Debug\net9.0-windows\ZIDANPROJEK.Properties.Resources.resources
